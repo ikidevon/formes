@@ -1,0 +1,7 @@
+Instructions
+-Reproduire l'image. Chaque élément (rond, carré, losange) peut avoir deux états : vide (pas de fond) et plein (un fond de couleur)
+-Ajouter un bouton pour "vide" et un autre pour "plein"
+Clic sur rond = plein/vide
+Instructions niveau 2
+Clic sur carré = plein/vide + élément même colonne + ligne activé
+Clic sur losange= plein/vide + élément même colonne + ligne activé
